@@ -1,2 +1,1 @@
-# cloudx
-For IoT Cloud Platform API
+# Welcome to IoT Cloud Platform API
